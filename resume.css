@@ -43,6 +43,15 @@ body{
     font-size: 40px;
 }
 
+.link{
+    color: black;
+}
+
+.git{
+    color: black;
+}
+
+
 .section{
     margin-top: 18px;
     margin-left: 12px;
