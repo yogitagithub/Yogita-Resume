@@ -14,9 +14,8 @@ body{
 
 .main{
     position: relative;
-    width: 100%;
     max-width: 1000px;
-    min-height: 1170px;
+    min-height: 1130px;
     display: grid;
     grid-template-columns: 1fr 1.7fr;
     background: white;
@@ -27,7 +26,7 @@ body{
     position: relative;
     background: rgb(211, 208, 208);
     margin-top: 37px;
-    margin-left: 45px;
+    margin-left: 40px;
     margin-right: 10px;
     margin-bottom: 30px;
 }
@@ -72,7 +71,7 @@ body{
     font-size: 19px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 9px;
 }
@@ -81,7 +80,7 @@ body{
     margin-top: 10px;
     margin-left: 9px;
     font-size: 16.5px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .college{
@@ -93,7 +92,7 @@ body{
     margin-left: 9px;
     margin-top: 18px;
     font-size: 16.5px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .school{
@@ -105,7 +104,7 @@ body{
     margin-left: 9px;
     margin-top: 20px;
     font-size: 16.5px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .school-name{
@@ -125,7 +124,7 @@ body{
     font-size: 19px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 9px;
 }
@@ -134,7 +133,7 @@ body{
     margin-top: 10px;
     margin-left: 9px;
     font-size: 16.5px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .primary{
@@ -146,7 +145,7 @@ body{
     margin-top: 15px;
     margin-left: 9px;
     font-size: 16.5px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .secondary{
@@ -166,7 +165,7 @@ body{
     font-size: 19px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 9px;
 }
@@ -175,7 +174,7 @@ body{
     font-size: 19px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 9px;
 }
@@ -214,7 +213,7 @@ body{
     font-size: 19px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 9px;
 }
@@ -228,7 +227,7 @@ body{
 
 .sixth-line{
     background: black;
-    width: 600px;
+    width: 610px;
     height: 4px;
     margin-left: 11px;
     margin-top: 45px;
@@ -238,14 +237,14 @@ body{
     font-size: 23px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 10px;
     margin-left: 14px;
 }
 
 .seventh-line{
     background: black;
-    width: 600px;
+    width: 610px;
     height: 4px;
     margin-left: 11px;
     margin-top: 8px;
@@ -275,11 +274,12 @@ body{
     margin-left: 26px;
     margin-top: 10px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .eighth-line{
     background: black;
-    width: 600px;
+    width: 610px;
     height: 4px;
     margin-left: 11px;
     margin-top: 25px;
@@ -289,14 +289,14 @@ body{
     font-size: 23px;
     font-weight: 700;
     letter-spacing: normal;
-    color: red;
+    color: black;
     margin-top: 7px;
     margin-left: 14px;
 }
 
 .nineth-line{
     background: black;
-    width: 600px;
+    width: 610px;
     height: 4px;
     margin-left: 11px;
     margin-top: 8px;
@@ -315,6 +315,7 @@ body{
     margin-left: 30px;
     margin-top: 10px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .grocery{
@@ -330,6 +331,7 @@ body{
     margin-left: 30px;
     margin-top: 10px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .image{
@@ -345,6 +347,7 @@ body{
     margin-left: 30px;
     margin-top: 10px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .bmi{
@@ -360,9 +363,26 @@ body{
     margin-left: 30px;
     margin-top: 10px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .img{
     margin-left: 425px;
-    margin-top: 110px;
+    margin-top: 70px;
+}
+
+.commerce{
+    font-size: 22px;
+    font-weight: 550;
+    letter-spacing: normal;
+    color: black;
+    margin-left: 13px;
+    margin-top: 25px;
+}
+
+.website{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: justify;
 }
